@@ -36,9 +36,9 @@ The project evaluates the performance of several machine learning models for sen
 ####
 2.) Install the required dependancies 
 ```pip install -r requirements.txt```
-#### 
-3.) ```streamlit run app.py```
+
 
 ## Submiited by:
 - Sarthak Kapila (22107038)
 - Avi sinha (22107027)
+- Ojas Kampani (22107023)
